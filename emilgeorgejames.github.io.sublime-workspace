@@ -1,0 +1,662 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"avat",
+				"avatar"
+			],
+			[
+				"M",
+				"MultiField"
+			],
+			[
+				"v",
+				"verbose_name"
+			],
+			[
+				"list",
+				"list_display"
+			],
+			[
+				"Product",
+				"ProductImage"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"query",
+				"queryset_list"
+			],
+			[
+				"confirm",
+				"confirm_password"
+			],
+			[
+				"HTTP",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"User",
+				"UserLoginSerializer"
+			],
+			[
+				"serializer",
+				"serializer_class"
+			],
+			[
+				"Email",
+				"EmailField"
+			],
+			[
+				"Model",
+				"ModelSerializer"
+			],
+			[
+				"Manage",
+				"ManageCourseListView"
+			],
+			[
+				"Text",
+				"TextField"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"P",
+				"PersonDetailAPIView"
+			],
+			[
+				"Person",
+				"PersonSerializer"
+			],
+			[
+				"seri",
+				"serializer_class"
+			],
+			[
+				"po",
+				"post_data"
+			],
+			[
+				"Per",
+				"PersonForm"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"A",
+				"AbstractBaseUser"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"is",
+				"is_active"
+			],
+			[
+				"met",
+				"method_decorator"
+			],
+			[
+				"m",
+				"method_decorator"
+			],
+			[
+				"METHOD",
+				"method_decorator"
+			],
+			[
+				"R",
+				"REDIRECT_FIELD_NAME"
+			],
+			[
+				"Login",
+				"LoginForm"
+			],
+			[
+				"va",
+				"value_2_invalid"
+			],
+			[
+				"value",
+				"value_1_invalid"
+			],
+			[
+				"validate",
+				"validate_dot_com"
+			],
+			[
+				"vali",
+				"validators"
+			],
+			[
+				"Validator",
+				"ValidationError"
+			],
+			[
+				"url",
+				"url_validator"
+			],
+			[
+				"Submit",
+				"SubmitUrlForm"
+			],
+			[
+				"s",
+				"SHORTCODE_MIN"
+			],
+			[
+				"Kirr",
+				"KirrURLManager"
+			],
+			[
+				"__",
+				"__class__"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"Search",
+				"SearchQuerySet"
+			],
+			[
+				"reu",
+				"request"
+			],
+			[
+				"form",
+				"forms"
+			],
+			[
+				"LIstView",
+				"ListView"
+			],
+			[
+				"published",
+				"publishedManager"
+			],
+			[
+				"g",
+				"GET"
+			],
+			[
+				"Image",
+				"ImageCreationForm"
+			],
+			[
+				"Imge",
+				"ImageAdmin"
+			],
+			[
+				"profile",
+				"profile_form"
+			],
+			[
+				"setting",
+				"settings"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1223,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/emil/emilgeorgejames.github.io-Local"
+	],
+	"file_history":
+	[
+		"/home/emil/bootcamp/bootcamp/bootcamp/activities/models.py",
+		"/home/emil/bootcamp/bootcamp/bootcamp/articles/templates/articles/articles.html",
+		"/home/emil/bootcamp/bootcamp/bootcamp/articles/templates/articles/partial_article.html",
+		"/home/emil/bootcamp/bootcamp/bootcamp/core/admin.py",
+		"/home/emil/ERP/src/toiley/settings.py",
+		"/home/emil/ERP/src/core/templates/core/home.html",
+		"/home/emil/ERP/src/core/templates/base.html",
+		"/home/emil/ERP/src/core/views.py",
+		"/home/emil/ERP/src/templates/base.html",
+		"/home/emil/ERP/src/core/templates/core/base.html",
+		"/home/emil/ERP/src/static/static_files/dist/css/ionicons.min.css",
+		"/home/emil/ERP/src/static/static_files/dist/css/font-awesome.min.css",
+		"/home/emil/ERP/ERP-html/starter.html",
+		"/home/emil/ERP/src/toiley/urls.py",
+		"/home/emil/myproject/taskassister/src/project_name/settings/base.py",
+		"/home/emil/myproject/taskassister/src/admin details.txt",
+		"/home/emil/myproject/taskassister/src/profiles/urls.py",
+		"/home/emil/myproject/taskassister/src/templates/admin/admin_title.html",
+		"/home/emil/myproject/taskassister/src/templates/admin/base_site.html",
+		"/home/emil/myproject/taskassister/src/profiles/templates/profiles/show_profile.html",
+		"/home/emil/myproject/taskassister/src/profiles/forms.py",
+		"/home/emil/myproject/taskassister/src/profiles/choices.py",
+		"/home/emil/myproject/taskassister/src/profiles/admin.py",
+		"/home/emil/myproject/taskassister/src/profiles/views.py",
+		"/home/emil/myproject/taskassister/src/profiles/templates/profiles/edit_profile.html",
+		"/home/emil/myproject/taskassister/src/project_name/settings/local.env",
+		"/home/emil/ERP/src/admindetails.txt",
+		"/home/emil/ERP/src/toiley/admindetails.txt",
+		"/home/emil/Downloads/AdminLTE-2.3.11/index.html",
+		"/home/emil/myproject/taskassister/src/profiles/api/serializers.py",
+		"/home/emil/myproject/taskassister/src/profiles/api/views.py",
+		"/home/emil/myproject/taskassister/src/requirement.txt",
+		"/home/emil/myproject/taskassister/src/profiles/templates/profiles/temple_profile.html",
+		"/home/emil/myproject/taskassister/src/profiles/models.py",
+		"/home/emil/myproject/taskassister/src/accounts/admin.py",
+		"/home/emil/myproject/taskassister/src/accounts/forms.py",
+		"/home/emil/ecommerce/ecommerce/products/templates/cart/view.html",
+		"/home/emil/ecommerce/ecommerce/products/templates/cart/views.py",
+		"/home/emil/ecommerce/ecommerce/ecommerce/settings.py",
+		"/home/emil/ecommerce/ecommerce/admin details.txt",
+		"/home/emil/trydjango110/src/kirr/settings.py",
+		"/home/emil/logmein/allshare/requirements.txt",
+		"/home/emil/logmein/allshare/base/templates/base/shareloginform.html",
+		"/home/emil/logmein/allshare/base/templates/base/searchresult.html",
+		"/home/emil/logmein/allshare/base/templates/base/profile_add.html",
+		"/home/emil/myproject/taskassister/src/accounts/views.py",
+		"/home/emil/myproject/taskassister/src/accounts/models.py",
+		"/home/emil/logmein/logmein/onlylogins/urls.py",
+		"/home/emil/logmein/logmein/manage.py",
+		"/home/emil/logmein/logmein/onlylogins/settings.py",
+		"/home/emil/logmein/logmein/onlylogins/wsgi.py",
+		"/home/emil/logmein/static/static_files/css/bootstrap.min.css",
+		"/home/emil/logmein/logmein/base/templates/registration/signup.html",
+		"/home/emil/logmein/logmein/base/templates/registration/login.html",
+		"/home/emil/logmein/static/static_files/css/bootstrap-select.min.css",
+		"/home/emil/logmein/logmein/base/templates/base.html",
+		"/home/emil/ecommerce/ecommerce/products/urls.py",
+		"/home/emil/tasker/Tasker/admin details.txt",
+		"/home/emil/taskassister/src/static/bootstrap/css/bootstrap-select.min.css",
+		"/home/emil/taskassister/src/static/bootstrap/js/bootstrap.min.js",
+		"/home/emil/taskassister/src/static/bootstrap/css/bootstrap.min.css",
+		"/home/emil/ecommerce/ecommerce/products/templates/products/product.html",
+		"/home/emil/ecommerce/src/products/urls.py",
+		"/home/emil/ecommerce/src/admin details.txt",
+		"/home/emil/sharelogin/src/LogMeIn/urls.py",
+		"/home/emil/sharelogin/src/base/models.py",
+		"/home/emil/sharelogin/src/base/urls.py",
+		"/home/emil/sharelogin/src/LogMeIn/settings.py",
+		"/home/emil/sharelogin/src/requirement.txt",
+		"/home/emil/project/src/sthanakwasi/settings.py",
+		"/home/emil/sharelogin/src/static/css/search.css",
+		"/home/emil/taskassister/src/project_name/settings/local.env",
+		"/home/emil/taskassister/src/project_name/urls.py",
+		"/home/emil/taskassister/src/project_name/wsgi.py",
+		"/home/emil/taskassister/src/admin details.txt",
+		"/home/emil/taskassister/src/project_name/__init__.py",
+		"/home/emil/taskassister/src/Procfile",
+		"/home/emil/taskassister/src/.gitignore",
+		"/home/emil/Documents/thinkster/src/templates/javascripts.html",
+		"/home/emil/Documents/thinkster/src/templates/stylesheets.html",
+		"/home/emil/taskassister/src/templates/base.html",
+		"/home/emil/taskassister/src/runtime.txt",
+		"/home/emil/taskassister/src/Procfile.txt",
+		"/home/emil/taskassister/src/accounts/models.py",
+		"/home/emil/taskassister/src/accounts/api/views.py",
+		"/home/emil/taskassister/src/project_name/settings/development.py",
+		"/home/emil/taskassister/LICENSE.txt",
+		"/home/emil/taskassister/requirements/production.txt",
+		"/home/emil/taskassister/requirements/development.txt",
+		"/home/emil/taskassister/requirements/base.txt",
+		"/home/emil/taskassister/src/Read1.md",
+		"/home/emil/taskassister/src/Read.md",
+		"/home/emil/taskassister/src/templates/_brandname.html",
+		"/home/emil/taskassister/src/manage.py",
+		"/home/emil/taskassister/src/Templesite/wsgi.py",
+		"/home/emil/taskassister/src/Templesite/settings/production.py",
+		"/home/emil/taskassister/src/Templesite/settings/base.py",
+		"/home/emil/taskassister/src/profiles/models.py",
+		"/home/emil/taskassister/src/accounts/api/serializers.py",
+		"/home/emil/taskassister/src/templates/about.html",
+		"/home/emil/taskassister/src/accounts/api/urls.py",
+		"/home/emil/taskassister/src/profiles/api/serializers.py",
+		"/home/emil/taskassister/src/profiles/api/urls.py",
+		"/home/emil/taskassister/src/profiles/api/views.py",
+		"/home/emil/taskassister/src/accounts/views.py",
+		"/home/emil/taskassister/src/accounts/forms.py",
+		"/home/emil/taskassister/src/accounts/urls.py",
+		"/home/emil/taskassister/docs/index.md",
+		"/home/emil/taskassister/src/profiles/templates/profiles/show_profile.html",
+		"/home/emil/taskassister/src/taskassister/settings/base.py",
+		"/home/emil/taskassister/src/taskassister/settings/production.py",
+		"/home/emil/taskassister/src/taskassister/wsgi.py",
+		"/home/emil/taskassister/src/task/models.py",
+		"/home/emil/taskassister/src/profiles/templates/profiles/edit_profile.html",
+		"/home/emil/project/src/accounts/api/serializers.py",
+		"/home/emil/project/jh/account/models.py",
+		"/home/emil/Documents/elearn/src/courses/registration/logged_out.html",
+		"/home/emil/Documents/elearn/src/courses/templates/base.html",
+		"/home/emil/Documents/elearn/src/courses/registration/login.html",
+		"/home/emil/taskassister/src/task/admin.py",
+		"/home/emil/taskassister/src/accounts/tests.py",
+		"/home/emil/taskassister/src/taskassister/settings/development.py",
+		"/home/emil/project/src/homeInfo/views.py",
+		"/home/emil/taskassister/src/taskassister/urls.py",
+		"/home/emil/taskassister/src/taskassister/settings/local.sample.env",
+		"/home/emil/taskassister/src/taskassister/views.py",
+		"/home/emil/myproject/taskassister/src/taskassister/wsgi.py",
+		"/home/emil/matchmaker/src/templates/question/home.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/emil/logmein/allshare",
+			"/home/emil/logmein/logmein/onlylogins",
+			"<current file>,/home/emil/bootcamp/bootcamp/bootcamp",
+			"<current file>",
+			"/home/emil/Documents/thinkster/src",
+			"<current file>,/home/emil/taskassister/src",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"link",
+			"sidebar-mini",
+			"fixed",
+			"layout",
+			"<img src=\"dist/img/user2-160x160.jpg\" class=\"img-circle\" alt=\"User Image\">",
+			"link",
+			" sidebar-mini",
+			"min",
+			"fontawesome-webfont.woff2?v=4.5.0",
+			"user2",
+			"user2-160x160.jpg",
+			"MEMBER_CHOICES",
+			"BASE_DIR",
+			"{%",
+			"onlylogins",
+			".jumb",
+			"jumbotron",
+			"min-height:",
+			"min-height: 400px;",
+			"jumbotron ",
+			"jumbotron fluid",
+			"jumbotron",
+			"corporate-jumbo",
+			"http://placehold.it/320x150",
+			"search.html",
+			"query",
+			"search",
+			"development",
+			"{% load static from staticfiles %}",
+			"{% load static in  staticfiles %}",
+			"{% load staticfiles %}",
+			"thinkster_django_angular_boilerplate",
+			"Templesite",
+			"macle",
+			"Templesite",
+			"arock",
+			"edge",
+			"taskassister",
+			"djShow",
+			"djShowToolBarButton",
+			"Arun Ravindran",
+			"              \n",
+			"models",
+			"form>",
+			"for",
+			" \t\t",
+			"Rollover",
+			"New",
+			"Renewal",
+			"New",
+			"login_window",
+			"login",
+			"saveandcontinue",
+			"IntegerField",
+			"default=1",
+			"default='1'",
+			"default=''",
+			",blank=True",
+			"blank=False",
+			", blank=False",
+			",default=''",
+			"models",
+			"firstname",
+			"bootstrap.css",
+			"/static/css/bootstrap.css",
+			"Details Of Family Members",
+			"default",
+			"\";}?>",
+			"FF8300",
+			"FF8300;\\\"> | </b>'",
+			"<b style=\\\"color: #FF8300;\\\"> | </b>'",
+			"marqueenews.php",
+			"Register\";} ?>",
+			"{echo \" Register\";} ?>",
+			";}else{echo \" Register\";} ?>",
+			"\";}else{",
+			"navbar",
+			"blogItems",
+			"app",
+			"BlogListController",
+			"SubmitUrlForm",
+			"id",
+			"get_abolute_url",
+			"modles",
+			"UserEditForm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"shareit",
+			"{% load staticfiles %}",
+			"{% load static from staticfiles %}",
+			"project_name",
+			"Templesite",
+			"default2",
+			"default1",
+			"default3",
+			"default1",
+			"CharField",
+			"default=''",
+			"default=1",
+			"",
+			"forms"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "emilgeorgejames.github.io.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
